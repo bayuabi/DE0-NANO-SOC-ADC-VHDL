@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "D:/TUGAS KULIAH/PKL LAPAN/ADC-V1/xilink_adc/xilink_adc_tb_isim_beh.exe" -prj "D:/TUGAS KULIAH/PKL LAPAN/ADC-V1/xilink_adc/xilink_adc_tb_beh.prj" "work.xilink_adc_tb" 

@@ -1,0 +1,2 @@
+vhdl work "xilink_adc.vhd"
+vhdl work "xilink_adc_tb.vhd"

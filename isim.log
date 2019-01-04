@@ -1,0 +1,2 @@
+ISim log file
+Running: D:\TUGAS KULIAH\PKL LAPAN\ADC-V1\xilink_adc\xilink_adc_tb_isim_beh.exe -intstyle ise -gui -tclbatch isim.cmd -wdb D:/TUGAS KULIAH/PKL LAPAN/ADC-V1/xilink_adc/xilink_adc_tb_isim_beh.wdb 
