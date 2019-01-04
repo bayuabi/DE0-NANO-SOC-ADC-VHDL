@@ -21,7 +21,7 @@ ARCHITECTURE behavior OF xilink_adc_tb IS
    signal dout : std_logic := '0';
    signal iClk : std_logic := '0';
 
- 	--Outputs
+   --Outputs
    signal cs : std_logic;
    signal din : std_logic;
    signal oClk : std_logic;
@@ -62,7 +62,7 @@ BEGIN
 		wait for 200 ns; dout <= '0';
 		wait for 200 ns; dout <= '0';
 		wait for 200 ns; dout <= '0';
-		wait for 200 ns; dout <= '0';
+		wait for 200 ns; dout <= '1';
 		wait for 200 ns; dout <= '1';
 	end process;
 END;
